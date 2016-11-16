@@ -9,7 +9,7 @@
  */
 
 
-#define S_FUNCTION_NAME  timesthree
+#define S_FUNCTION_NAME  timesthree_updated
 #define S_FUNCTION_LEVEL 2
 
 #include "simstruc.h"
